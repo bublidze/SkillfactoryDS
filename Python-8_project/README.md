@@ -1,4 +1,4 @@
-# Проект 0. Угадай число
+# Проект 1. Финальное задание модуля PYTHON-8
 
 ## Оглавление
 [1. Описание проекта](https://github.com/bublidze/SkillfactoryDS/tree/main/Python-8_project/README.md#Описание-проекта)
